@@ -12,6 +12,14 @@
   },
   "author": "Austin Peterson <austin@akpwebdesign.com> (http://akpwebdesign.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKP48Squared/akp48-plugin-ayy-lmao-response.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AKP48Squared/akp48-plugin-ayy-lmao-response/issues"
+  },
+  "homepage": "https://github.com/AKP48Squared/akp48-plugin-ayy-lmao-response",
   "dependencies": {
     "chance": "^1.0.3"
   }
