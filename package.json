@@ -13,6 +13,6 @@
   "author": "Austin Peterson <austin@akpwebdesign.com> (http://akpwebdesign.com)",
   "license": "MIT",
   "dependencies": {
-    "chance": "^1.0.1"
+    "chance": "^1.0.3"
   }
 }
