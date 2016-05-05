@@ -9,7 +9,7 @@ class AyyLmao extends MessageHandlerPlugin {
 }
 
 AyyLmao.prototype.handleMessage = function (message, context, res) {
-  GLOBAL.logger.stupid(`${this._pluginName}: Received message.`);
+  global.logger.stupid(`${this._pluginName}: Received message.`);
   if(message.toLowerCase().includes('ayy')) {
     context.noPrefix = true;
     this._AKP48.sendMessage((chance.bool({likelihood: 25}) ? 'ayy lamo' : 'ayy lmao'), context);
