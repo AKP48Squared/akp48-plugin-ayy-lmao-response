@@ -1,5 +1,3 @@
-# ayy-lmao-response
-
 This plugin simply responds with "ayy lmao" or "ayy lamo" any time it sees the word "ayy" used in a channel. There is a 25% chance that "lamo" is used any given time.
 
 # Installation
