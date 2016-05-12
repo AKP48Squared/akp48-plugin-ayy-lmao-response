@@ -1,8 +1,7 @@
 'use strict';
-const MessageHandlerPlugin = require('../../lib/MessageHandlerPlugin');
 const chance = new (require('chance'))();
 
-class AyyLmao extends MessageHandlerPlugin {
+class AyyLmao extends global.AKP48.pluginTypes.MessageHandler {
   constructor(AKP48) {
     super('AyyLmao', AKP48);
   }

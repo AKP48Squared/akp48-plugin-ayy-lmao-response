@@ -14,12 +14,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AKP48Squared/akp48-plugin-ayy-lmao-response.git"
+    "url": "git+https://github.com/AKP48Squared/ayy-lmao-response.git"
   },
   "bugs": {
-    "url": "https://github.com/AKP48Squared/akp48-plugin-ayy-lmao-response/issues"
+    "url": "https://github.com/AKP48Squared/ayy-lmao-response/issues"
   },
-  "homepage": "https://github.com/AKP48Squared/akp48-plugin-ayy-lmao-response",
+  "homepage": "https://github.com/AKP48Squared/ayy-lmao-response",
   "dependencies": {
     "chance": "^1.0.3"
   }
