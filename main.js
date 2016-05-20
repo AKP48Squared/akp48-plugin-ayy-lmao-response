@@ -18,3 +18,4 @@ AyyLmao.prototype.handleMessage = function (message, context, res) {
 
 module.exports = AyyLmao;
 module.exports.type = 'MessageHandler';
+module.exports.pluginName = 'ayy-lmao';
